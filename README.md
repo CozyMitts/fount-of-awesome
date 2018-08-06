@@ -1,2 +1,2 @@
 # fount-of-awesome
-An opening repository
+An opening repository. Building great things with Github.
